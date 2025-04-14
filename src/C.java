@@ -61,10 +61,6 @@ class C {
     System.out.println("метод z20 в классе C");
     System.out.println(z11);
   }
-  public static void z21() {
-    System.out.println("метод z21 в классе C");
-    System.out.println((z11 + 2));
-  }
   public void z30(C r) {
     r.z5();
   }
