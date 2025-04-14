@@ -33,11 +33,11 @@ class B extends C {
     System.out.println((z10 - 4));
   }
   public static void z20() {
-    System.out.println("метод z20 в классе B");
+    System.out.println("метод");
     System.out.println(z10);
   }
   public static void z21() {
-    System.out.println("метод z21 в классе B");
+    System.out.println("метод");
     System.out.println((z10 + 2));
   }
   public void z30(C r) {
