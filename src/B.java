@@ -5,7 +5,7 @@ class B extends C {
     z35 = 1L;
   }
   public void z27() {
-    System.out.println("метод z27 в классе B");
+    System.out.println("метод");
     System.out.println(z1++);
   }
   public void z25() {
